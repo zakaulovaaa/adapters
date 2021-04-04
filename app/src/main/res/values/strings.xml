@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">adapters</string>
+
+    <string-array name="names">
+        <item>Vasya</item>
+        <item>Petya</item>
+        <item>John</item>
+        <item>Max</item>
+    </string-array>
+
+
+    <string-array name="surname">
+        <item>Petrov</item>
+        <item>Vasilev</item>
+        <item>Ivanov</item>
+        <item>Vasechkin</item>
+    </string-array>
+
+</resources>
